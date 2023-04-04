@@ -1,5 +1,5 @@
 # Quiz-App
-just a simple quiz app to help study for linkedin html skills tests.
+just a simple quiz app to help study for linkedin html skills test.
 
 
 

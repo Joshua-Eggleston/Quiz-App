@@ -100,7 +100,7 @@ submitBtn.addEventListener('click', () => {
         if(currentQuiz < quizData.length) {
             loadQuiz();
             } else {
-              quiz.innerHTML = `<h2>You answered ${score} out of ${quizData.length} questions correctly!</h2>`
+              quiz.innerHTML = `<h2 style = "text-align: center; padding: 1rem;">You answered ${score} out of ${quizData.length} questions correctly!</h2>`
             }
        }
     

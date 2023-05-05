@@ -60,3 +60,13 @@ button {
 button:hover {
     background-color: #3470db ;
 }
+
+@media (min-width: 320px) and (max-width: 800px) {
+   .quiz-container {
+   max-width: 400px;
+   }
+   h2 {
+    font-size: large;
+    margin: 1rem 0;
+   }
+}

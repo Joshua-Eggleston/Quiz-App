@@ -1,6 +1,6 @@
 const quizData =[
     {
-        question: 'What is the purpose of the <plaintext><track> tag, and when should it be used?',
+        question: `Q1. What is the purpose of the <plaintext> <track> tag, and when should it be used?`,
         a: 'The <track> tag is used for specifying subtitles. It is typically applied as a child of the <audio> and <video> tags.',
         b: 'The <track> tag is used for specifying subtitles. It is typically applied as a child of the <video> tag.',
         c: 'The <track> tag is used for specifying subtitles, captions, and other types of time-based text. It is typically applied as a child of the <video> tag.',
@@ -8,7 +8,7 @@ const quizData =[
         answer: 'd'
     },
     {
-        question: 'What are the best examples of void elements?',
+        question: ' Q2. What are the best examples of void elements?',
         a: '<link><meta><title>',
         b: ' <br><base><source>',
         c: '<input><br><p>',
@@ -16,7 +16,7 @@ const quizData =[
         answer: 'b'
     },
     {
-        question: 'In HTML5, which tag or tags embed a webpage inside of a webpage?',
+        question: ' Q3. In HTML5, which tag or tags embed a webpage inside of a webpage?',
         a: '<iframe>, <frame>, and <frameset>',
         b: '<frame>',
         c: '<iframe>',
@@ -24,7 +24,7 @@ const quizData =[
         answer: 'c'
     },
     {
-        question: 'Where do <plaintext><header> and <footer> tags typically occur?',
+        question: ' Q4. Where do <plaintext><header> and <footer> tags typically occur?',
         a: 'as children of <body>, <article>, <aside>, and <section> tags',
         b: ' as children of <body>, <article>, and <section> tags',
         c: 'as children of <body>, <article>, <aside>, <nav>, and <section> tags',
@@ -32,7 +32,7 @@ const quizData =[
         answer: 'b'
     },
     {
-        question: 'What is the best way to apply bold styling to text?',
+        question: ' Q5. What is the best way to apply bold styling to text?',
         a: '<strong>',
         b: 'use CSS',
         c: '<bold>',

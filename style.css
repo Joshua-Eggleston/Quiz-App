@@ -62,8 +62,16 @@ button:hover {
 }
 
 @media (min-width: 320px) and (max-width: 800px) {
-   .quiz-container {
+   body {
+    max-width: 400px;
+   }
+    .quiz-container {
    max-width: 400px;
+   }
+   h1 {
+    margin-left: 5rem;
+   }
+ 
    }
    h2 {
     font-size: large;

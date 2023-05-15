@@ -48,7 +48,7 @@ just a simple quiz app to help study for linkedin html skills test.
 - [ ] when linking one webpage to another
 - [ ] when linking style sheets, external URLs, and favicons
 
-#### Q7. What should fill the two blanks in the HTML code below?
+<!-- #### Q7. What should fill the two blanks in the HTML code below?
 
 ```html
 <address ______ _____>
@@ -62,7 +62,7 @@ just a simple quiz app to help study for linkedin html skills test.
 - [x] `itemscope` `itemtype="http://schema.org/PostalAddress"`
 - [ ] `itemsref="http://schema.org/PostalAddress"` `itemid="address"`
 - [ ] `itemscope` `itemref="http://schema.org/PostalAddress"`
-- [ ] `itemid="address"` `itemtype="http://schema.org/PostalAddress"`
+- [ ] `itemid="address"` `itemtype="http://schema.org/PostalAddress"` -->
 
 #### Q8. When should you use the `<aside>` element?
 
@@ -85,7 +85,7 @@ just a simple quiz app to help study for linkedin html skills test.
 - [ ] form
 - [ ] spellcheck
 
-#### Q11. What is the best way to code the sample shown?
+<!-- #### Q11. What is the best way to code the sample shown?
 
 ![Sample text](images/ss-2.png?raw=true)
 
@@ -129,7 +129,7 @@ just a simple quiz app to help study for linkedin html skills test.
     These delectable little bites are made with organic eggs, fresh Parmesan, and chopped pine nuts.
   </p>
 </details>
-```
+``` -->
 
 #### Q12. What is the purpose of the `<samp>` element?
 
